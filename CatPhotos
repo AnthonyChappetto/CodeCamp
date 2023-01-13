@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 
-<html lang="en">
+<html lang="en">                    <!-- Sets language to english -->
   <head>
     <meta charset="UTF-8">
-    <title>CatPhotoApp</title>
+    <title>CatPhotoApp</title>      <!-- Title of the tab -->
   </head>
   <body>
     <main>
